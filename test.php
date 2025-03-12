@@ -3,6 +3,6 @@
 class Test
 {
     public function test() {
-        echo "Commit from demo2";
+        echo "Commit from demo3";
     }
 }
